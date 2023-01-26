@@ -6,16 +6,24 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
+Open Jupyterlab and a plain text file and save the file with .txt extension
 
 ### Step 2: 
+ Enter some words in file.txt file.
  
 ### Step 3: 
+Create python notebook.
+
 
 ### Step 4:  
+Enter the code with file name as excatly given in .txt extension.
 
 ### Step 5: 
+Run the code ,it will copy from file to file2
 
 ### Step 6: 
+Open the file2.txt it will copy the input and display.
+
 
 ## PROGRAM:
 ```
